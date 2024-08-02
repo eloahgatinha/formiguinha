@@ -43,20 +43,20 @@
 ```css
 body {
     font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #f9f9f9;
+    margin: 1;
+    padding: 1;
+    background-color: #violeta;
 }
 
 header {
-    background-color: #f8a3a3;
+    background-color: #roxo;
     padding: 10px;
     text-align: center;
 }
 
 nav ul {
     list-style-type: none;
-    padding: 0;
+    padding: 1;
 }
 
 nav ul li {
@@ -66,7 +66,7 @@ nav ul li {
 
 nav a {
     text-decoration: none;
-    color: #000;
+    color: #010;
 }
 
 section {
