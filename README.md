@@ -20,7 +20,7 @@
     </header>
     <section id="sobre">
         <h2>Sobre Nós</h2>
-        <p>Bem-vindo à Doceria Dos Anjos! Aqui, oferecemos os melhores doces e sobremesas para adoçar seu dia.</p>
+        <p>Bem-vindo à Doceria Dos Anjos! Aqui, oferecemos os melhores doces e sobremesas artesanais para adoçar seu dia.</p>
     </section>
     <section id="produtos">
         <h2>Nossos Produtos</h2>
