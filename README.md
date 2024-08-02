@@ -40,7 +40,6 @@
     </footer>
 </body>
 </html>
-```
 ```css
 body {
     font-family: Arial, sans-serif;
@@ -82,4 +81,3 @@ footer {
     padding: 10px;
     background-color: #f8a3a3;
 }
-```
