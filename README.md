@@ -40,9 +40,8 @@
     </footer>
 </body>
 </html>
-```
 
-```css
+css
 body {
     font-family: Arial, sans-serif;
     margin: 0;
