@@ -30,9 +30,13 @@
             <h3>Copo da felicidade</h3>
             <h3>recheios</h3><p>brigadeiro, beijinho, leite ninho, dois amores, nuttela</p>
             <h3>frutas</h3><p></p>morango, banana, kiwi,manga,uva verde</p>
-            <h3>complementos</h3><p>kit kat, bis, confete, kinder bueno, ferrero rocher</p>
+            <h3>complementos</h3><p>kit kat, bis, confete, kinder bueno, ferrero rocher<Cp>
             <p><strong>Preço: R$ 25,00</strong></p>
         </article>
+        </article>
+        <h3>donuts</h3>
+        <h3>cobertura</h3><p>chocolate, chocolate branco</p>
+        <h3>recheios</h3><p>brigadeiro, doce de leite, leite ninho, nuttela</p>
     </section>
     <section id="contato">
         <h2>Entre em Contato</h2>
