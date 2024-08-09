@@ -19,7 +19,7 @@
         <h2>Nossos Produtos</h2>
         <article>
             <h3>Bolo de Pote</h3>
-            <img src="[images](https://github.com/user-attachments/assets/d623c4ad-987f-4fd9-995e-486dc0227e61)" alt="Bolo de Pote">
+            <img src=[images](https://github.com/user-attachments/assets/d623c4ad-987f-4fd9-995e-486dc0227e61) alt="Bolo de Pote">
             <h3>Sabores</h3></p>brigadeiro, beijinho, nutela, leite ninho, dois amores</p>
             <p><strong>Preço: R$ 12,00</strong></p>
         </article>
