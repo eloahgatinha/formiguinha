@@ -20,19 +20,19 @@
         <article>
             <h3>Bolo de Pote</h3>
             <img src="caminho/para/sua/imagem2.jpg" alt="Bolo de Pote">
-            <h1>Sabores</h1></p>:brigadeiro, beijinho, nutela, leite ninho</p>
+            <h3>Sabores</h3></p>brigadeiro, beijinho, nutela, leite ninho, dois amores</p>
             <p><strong>Preço: R$ 12,00</strong></p>
         </article>
         <article>
             <h3>Brownie</h3>
             <img src="caminho/para/sua/imagem3.jpg" alt="Brownie">
-            <p>O brownie com uma casquinha incrível.</p>
+            <h3>recheios</h3><p>brigadeiro, beijinho, dois amores, leite ninho, nuttela</p>
             <p><strong>Preço: R$ 15,00 a fatia</strong></p>
         </article>
         <article>
             <h3>Copo da felicidade</h3>
             <img src="caminho/para/sua/imagem4.jpg" alt="Copo da felicidade">
-            <p>Um copo repleto de recheio, frutas e o que você preferir.</p>
+            <h3>recheios</h3><p>brigadeiro, beijinho, leite ninho, dois amores, nuttela</p>
             <p><strong>Preço: R$ 25,00</strong></p>
         </article>
     </section>
