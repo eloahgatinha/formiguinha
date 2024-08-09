@@ -1,4 +1,4 @@
-html
+```html
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -48,7 +48,7 @@ html
 </head>
 <body>
     <header>
-        <h1>Confeitaria Delícias</h1>
+        <h1>Doceria ods ANjos</h1>
         <nav>
             <ul>
                 <li><a href="#sobre">Sobre Nós</a></li>
@@ -67,10 +67,10 @@ html
     <section id="produtos">
         <h2>Nossos Produtos</h2>
         <article>
-            <h3>Bolo de Chocolate</h3>
-            <img src="caminho/para/sua/imagem2.jpg" alt="Bolo de Chocolate">
-            <p>Delicioso bolo de chocolate com cobertura cremosa.</p>
-            <p><strong>Preço: R$ 50,00</strong></p>
+            <h3>Bolo de Pote</h3>
+            <img src="caminho/para/sua/imagem2.jpg" alt="Bolo de Pote">
+            <p>Bolo de pote.</p>
+            <p><strong>Preço: R$ 12,00</strong></p>
         </article>
         <article>
             <h3>Brigadeiro</h3>
