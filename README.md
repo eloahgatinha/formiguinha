@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Doceria dos Anjos</title>
+    <title>Confeitaria Delícias</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -48,7 +48,7 @@
 </head>
 <body>
     <header>
-        <h1>Doceria dos Anjos</h1>
+        <h1>Confeitaria Delícias</h1>
         <nav>
             <ul>
                 <li><a href="#sobre">Sobre Nós</a></li>
@@ -60,37 +60,37 @@
 
     <section id="sobre">
         <h2>Sobre Nós</h2>
-        <p>Bem-vindo à Docerias dos Anjos! Oferecemos uma variedade de doces e bolos feitos com amor e dedicação.</p>
+        <p>Bem-vindo à Confeitaria Delícias! Oferecemos uma variedade de doces e bolos feitos com amor e dedicação.</p>
         <img src="caminho/para/sua/imagem1.jpg" alt="Bolos e Doces">
     </section>
 
     <section id="produtos">
         <h2>Nossos Produtos</h2>
         <article>
-            <h3>Bolo de Pote</h3>
-            <img src="caminho/para/sua/imagem2.jpg" alt="Bolo de pote">
-            <p>Delicioso bolo de pote.</p>
-            <p><strong>Preço: R$ 10,00</strong></p>
+            <h3>Bolo de Chocolate</h3>
+            <img src="caminho/para/sua/imagem2.jpg" alt="Bolo de Chocolate">
+            <p>Delicioso bolo de chocolate com cobertura cremosa.</p>
+            <p><strong>Preço: R$ 50,00</strong></p>
         </article>
         <article>
-            <h3>Brownie</h3>
-            <img src="caminho/para/sua/imagem3.jpg" alt="Brownie">
-            <p>O Brownie</p>
-            <p><strong>Preço: R$ 15,00 cada</strong></p>
+            <h3>Brigadeiro</h3>
+            <img src="caminho/para/sua/imagem3.jpg" alt="Brigadeiro">
+            <p>O tradicional doce brasileiro, feito com chocolate e leite condensado.</p>
+            <p><strong>Preço: R$ 1,50 cada</strong></p>
         </article>
         <article>
-            <h3>Copo da felicidade</h3>
-            <img src="caminho/para/sua/imagem4.jpg" alt="Copo da felicidade">
-            <p>Um Copo recheado de recheio, frutas e o que você preferir.</p>
-            <p><strong>Preço: R$ 25,00</strong></p>
+            <h3>Torta de Frutas</h3>
+            <img src="caminho/para/sua/imagem4.jpg" alt="Torta de Frutas">
+            <p>Uma torta fresca e saborosa com frutas da estação.</p>
+            <p><strong>Preço: R$ 35,00</strong></p>
         </article>
     </section>
 
     <footer id="contato">
         <h2>Entre em Contato</h2>
-        <p>Email: contato@doceriadosanjos.com</p>
-        <p>Telefone: (11) 8022-8922</p>
-        <p>Rua das Doces, 123 - Curitiba PR</p>
+        <p>Email: contato@confeitariadelicias.com</p>
+        <p>Telefone: (11) 99999-9999</p>
+        <p>Rua das Doces, 123 - São Paulo, SP</p>
     </footer>
 </body>
 </html>
