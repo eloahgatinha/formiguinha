@@ -1,4 +1,4 @@
-```html
+html
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -60,7 +60,7 @@
 
     <section id="sobre">
         <h2>Sobre Nós</h2>
-        <p>Bem-vindo à Confeitaria Delícias! Oferecemos uma variedade de doces e bolos feitos com amor e dedicação.</p>
+        <p>Bem-vindo à Doceria dos Anjos! Oferecemos uma variedade de doces e bolos feitos com amor e dedicação.</p>
         <img src="caminho/para/sua/imagem1.jpg" alt="Bolos e Doces">
     </section>
 
