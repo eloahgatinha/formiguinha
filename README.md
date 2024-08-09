@@ -36,8 +36,7 @@
             <p><strong>Preço: R$ 35,00</strong></p>
         </article>
     </section>
-
-    <footer id="contato">
+    <section id="contato">
         <h2>Entre em Contato</h2>
         <p>Email: contato@confeitariadelicias.com</p>
         <p>Telefone: (11) 99999-9999</p>
