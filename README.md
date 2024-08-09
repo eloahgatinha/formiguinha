@@ -14,8 +14,7 @@
     </header>
         <p>Bem-vindo à Doceria dos Anjos! Oferecemos uma variedade de doces e bolos feitos com amor e dedicação.</p>
         <img src="caminho/para/sua/imagem1.jpg" alt="Bolos e Doces">
-    </section>
-
+</section>
     <section id="produtos">
         <h2>Nossos Produtos</h2>
         <article>
