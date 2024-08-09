@@ -5,7 +5,10 @@
         <h1>Doceria dos Anjos</h1>
         <nav>
             <ul>
+                <li><a href="#sobre">Sobre Nós</a></li>
+                <li><a href="#produtos">Produtos</a></li>
                 <li><a href="#contato">Contato</a></li>
+            </ul>
             </ul>
         </nav>
     </header>
