@@ -2,7 +2,7 @@
 </head>
 <body>
     <header>
-        <h1>Doceria ods ANjos</h1>
+        <h1>Doceria dos Anjos</h1>
         <nav>
             <ul>
                 <li><a href="#sobre">Sobre Nós</a></li>
