@@ -13,25 +13,21 @@
         </nav>
     </header>
         <p>Bem-vindo à Doceria dos Anjos! Oferecemos uma variedade de doces e bolos feitos com amor e dedicação.</p>
-        <img src="caminho/para/sua/imagem1.jpg" alt="Bolos e Doces">
 </section>
     <section id="produtos">
         <h2>Nossos Produtos</h2>
         <article>
             <h3>Bolo de Pote</h3>
-            <img src=https://drive.google.com/file/d/1ETRfu3T_BkrLPn0uvqVqypYBTX7S1YNY/view?usp=drive_link alt="Bolo de Pote">
             <h3>Sabores</h3></p>brigadeiro, beijinho, nutela, leite ninho, dois amores</p>
             <p><strong>Preço: R$ 12,00</strong></p>
         </article>
         <article>
             <h3>Brownie</h3>
-            <img src="caminho/para/sua/imagem3.jpg" alt="Brownie">
             <h3>recheios</h3><p>brigadeiro, beijinho, dois amores, leite ninho, nuttela</p>
             <p><strong>Preço: R$ 15,00 a fatia</strong></p>
         </article>
         <article>
             <h3>Copo da felicidade</h3>
-            <img src="caminho/para/sua/imagem4.jpg" alt="Copo da felicidade">
             <h3>recheios</h3><p>brigadeiro, beijinho, leite ninho, dois amores, nuttela</p>
             <h3>frutas</h3><p></p>morango, banana, kiwi,manga,uva verde</p>
             <h3>complementos</h3><p>kit kat, bis, confete, kinder bueno, ferrero rocher</p>
