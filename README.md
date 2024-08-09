@@ -5,15 +5,10 @@
         <h1>Doceria dos Anjos</h1>
         <nav>
             <ul>
-                <li><a href="#sobre">Sobre Nós</a></li>
-                <li><a href="#produtos">Produtos</a></li>
                 <li><a href="#contato">Contato</a></li>
             </ul>
         </nav>
     </header>
-
-    <section id="sobre">
-        <h2>Sobre Nós</h2>
         <p>Bem-vindo à Doceria dos Anjos! Oferecemos uma variedade de doces e bolos feitos com amor e dedicação.</p>
         <img src="caminho/para/sua/imagem1.jpg" alt="Bolos e Doces">
     </section>
