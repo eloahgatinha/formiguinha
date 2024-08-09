@@ -24,23 +24,23 @@
             <p><strong>Preço: R$ 12,00</strong></p>
         </article>
         <article>
-            <h3>Brigadeiro</h3>
-            <img src="caminho/para/sua/imagem3.jpg" alt="Brigadeiro">
-            <p>O tradicional doce brasileiro, feito com chocolate e leite condensado.</p>
-            <p><strong>Preço: R$ 1,50 cada</strong></p>
+            <h3>Brownie</h3>
+            <img src="caminho/para/sua/imagem3.jpg" alt="Brownie">
+            <p>O brownie com uma casquinha incrível.</p>
+            <p><strong>Preço: R$ 15,00 a fatia</strong></p>
         </article>
         <article>
-            <h3>Torta de Frutas</h3>
-            <img src="caminho/para/sua/imagem4.jpg" alt="Torta de Frutas">
-            <p>Uma torta fresca e saborosa com frutas da estação.</p>
-            <p><strong>Preço: R$ 35,00</strong></p>
+            <h3>Copo da felicidade</h3>
+            <img src="caminho/para/sua/imagem4.jpg" alt="Copo da felicidade">
+            <p>Um copo repleto de recheio, frutas e o que você preferir.</p>
+            <p><strong>Preço: R$ 25,00</strong></p>
         </article>
     </section>
     <section id="contato">
         <h2>Entre em Contato</h2>
-        <p>Email: contato@confeitariadelicias.com</p>
+        <p>Email: contato@doceriadosanjos.com</p>
         <p>Telefone: (11) 99999-9999</p>
-        <p>Rua das Doces, 123 - São Paulo, SP</p>
+        <p>Rua das Doces, 123 - Curitiba, PR</p>
     </footer>
 </body>
 </html>
