@@ -20,7 +20,12 @@
         <article>
             <h3>Bolo de Pote</h3>
             <img src="caminho/para/sua/imagem2.jpg" alt="Bolo de Pote">
-            <p>Bolo de pote.</p>
+            <p>Sabores:
+            brigadeiro
+            beijinho
+            nuttela
+            leite ninho
+            </p>
             <p><strong>Preço: R$ 12,00</strong></p>
         </article>
         <article>
