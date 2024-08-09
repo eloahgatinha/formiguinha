@@ -33,6 +33,8 @@
             <h3>Copo da felicidade</h3>
             <img src="caminho/para/sua/imagem4.jpg" alt="Copo da felicidade">
             <h3>recheios</h3><p>brigadeiro, beijinho, leite ninho, dois amores, nuttela</p>
+            <h3>frutas</h3><p></p>morango, banana, kiwi,manga,uva verde</p>
+            <h3>complementos</h3><p>kit kat, bis, confete, kinder bueno, ferrero rocher</p>
             <p><strong>Preço: R$ 25,00</strong></p>
         </article>
     </section>
